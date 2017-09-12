@@ -9,7 +9,7 @@
  * Plugin Name:       TablePress Extension: Shortcode Attributes Plus
  * Plugin URI:        https://github.com/ucsf-ckm/tablepress-ext-shortcode-attrs-plus
  * Description:       Provides additional attributes to the [table /] shortcode.
- * Version:           0.9.0
+ * Version:           1.0.0
  * Author:            Stefan Topfstedt
  * Author URI:        https://github.com/stopfstedt
  * License:           MIT
